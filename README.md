@@ -25,18 +25,18 @@ Before running this notebook on Google Colab, ensure the following:
 
 This notebook is split into 12 sections - Use the table to contents to navigate to each section
 
-Forcefully install nltk version 3.8.1 due to ongoing dependency problem
-Data Pre-processing
-Support Vector Machine (Classifier)
-Random Forest (Classifier)
-Multinomial Naive Bayes (Classifier)
-K-Nearest-Neighbors (Classifier)
-Logistic Regression (Meta-model)
-Stacking (MNB, SVM, DT) + (LR) - Combination 1
-Stacking (MNB, KNN, DT) + (LR) - Combination 2
-Stacking (MNB, Perceptron, DT) + (LR) - Combination 3
-Stacking (MNB, LightGBM, RF) + (LR) - Combination 4
-Final Stacking Technique (MNB, KNN, RF) + (LR) - Combination 5
+1.Forcefully install nltk version 3.8.1 due to ongoing dependency problem
+2.Data Pre-processing
+3.Support Vector Machine (Classifier)
+4.Random Forest (Classifier)
+5.Multinomial Naive Bayes (Classifier)
+6.K-Nearest-Neighbors (Classifier)
+7.Logistic Regression (Meta-model)
+8.Stacking (MNB, SVM, DT) + (LR) - Combination 1
+9.Stacking (MNB, KNN, DT) + (LR) - Combination 2
+10.Stacking (MNB, Perceptron, DT) + (LR) - Combination 3
+11.Stacking (MNB, LightGBM, RF) + (LR) - Combination 4
+12.Final Stacking Technique (MNB, KNN, RF) + (LR) - Combination 5
 
 ---
 
